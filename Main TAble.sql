@@ -1,0 +1,16 @@
+INSERT INTO `firstschema`.`tt2` (`Name`, `Code`, `Credits`, `Mandatory/Elective`, `Instructor`, `Acronym`) VALUES ('Advanced Programming', 'CSE201', '4', 'Mandatory', 'Vivek Kumar', 'AP');
+INSERT INTO `firstschema`.`tt2` (`Name`, `Code`, `Credits`, `Mandatory/Elective`, `Instructor`, `Acronym`) VALUES ('Computer Organization', 'CSE112', '4', 'Mandatory', 'Naveen Prakash ', 'CO');
+INSERT INTO `firstschema`.`tt2` (`Name`, `Code`, `Credits`, `Mandatory/Elective`, `Instructor`, `Acronym`) VALUES ('Discrete Mathematics', 'CSE121', '4', 'Mandatory', 'Dhongoon Chang', 'DM');
+INSERT INTO `firstschema`.`tt2` (`Name`, `Code`, `Credits`, `Mandatory/Elective`, `Instructor`, `Acronym`) VALUES ('Introduction to Digital Ethonography', 'HSS2xx', '4', 'HSS Elective', 'Shriram Venkatraman', 'IDE');
+INSERT INTO `firstschema`.`tt2` (`Name`, `Code`, `Credits`, `Mandatory/Elective`, `Instructor`, `Acronym`) VALUES ('Introduction to Media in Society', 'HSS2xx', '4', 'HSS Elective', 'Aasim KhanShriram Venkatraman', 'IMS');
+INSERT INTO `firstschema`.`tt2` (`Name`, `Code`, `Credits`, `Mandatory/Elective`, `Instructor`, `Acronym`) VALUES ('Introduction to Poetry', 'HSS223A', '4', 'HSS Elective', 'Saumya Kulshreshtha', 'PO');
+INSERT INTO `firstschema`.`tt2` (`Name`, `Code`, `Credits`, `Mandatory/Elective`, `Instructor`, `Acronym`) VALUES ('Introduction to Psychology', 'HSS204', '4', 'HSS Elective', 'Akshay Kumar', 'Psy');
+INSERT INTO `firstschema`.`tt2` (`Name`, `Code`, `Credits`, `Mandatory/Elective`, `Instructor`, `Acronym`) VALUES ('Introduction to Social Informatics', 'HSS2xx', '4', 'HSS Elective', 'Venkata Ratandeep Suri', 'ISI');
+INSERT INTO `firstschema`.`tt2` (`Name`, `Code`, `Credits`, `Mandatory/Elective`, `Instructor`, `Acronym`) VALUES ('Key Concepts in Economic Sociology', 'HSS2ES', '4', 'HSS Elective', 'Amrit Srinivasan', 'ES');
+INSERT INTO `firstschema`.`tt2` (`Name`, `Code`, `Credits`, `Mandatory/Elective`, `Instructor`, `Acronym`) VALUES ('Math-III', 'MTH203', '4', 'Elective', 'Sarthok Sircar', 'M-III');
+INSERT INTO `firstschema`.`tt2` (`Name`, `Code`, `Credits`, `Mandatory/Elective`, `Instructor`, `Acronym`) VALUES ('Number Theory', 'MTH2xxN', '4', 'Elective', 'Anuradha Sharma', 'NT');
+INSERT INTO `firstschema`.`tt2` (`Name`, `Code`, `Credits`, `Mandatory/Elective`, `Instructor`, `Acronym`) VALUES ('Perspectives of Knowledge', 'HSS202', '4', 'HSS Elective', 'Raj Ayyar', 'PoK');
+INSERT INTO `firstschema`.`tt2` (`Name`, `Code`, `Credits`, `Mandatory/Elective`, `Instructor`, `Acronym`) VALUES ('Real Analysis I', 'MTH2xx', '4', 'Elective', 'Samaresh Chatterjee', 'RA');
+INSERT INTO `firstschema`.`tt2` (`Name`, `Code`, `Credits`, `Mandatory/Elective`, `Instructor`, `Acronym`) VALUES ('Signal & Systems', 'ECE250', '4', 'Elective', 'Anubha Gupta', 'S&S');
+INSERT INTO `firstschema`.`tt2` (`Name`, `Code`, `Credits`, `Mandatory/Elective`, `Instructor`, `Acronym`) VALUES ('Theatre Appreciation', 'HSS211', '4', 'HSS Elective', 'Manohar Khushlani', 'TA');
+INSERT INTO `firstschema`.`tt2` (`Name`, `Code`, `Credits`, `Mandatory/Elective`, `Instructor`, `Acronym`) VALUES ('Theory & Practice of Engineering Ethics', 'HSS208', '4', 'HSS Elective', 'Raj Ayyar', 'TPEE');
